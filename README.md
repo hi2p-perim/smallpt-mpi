@@ -27,7 +27,7 @@ with 1-2 gen. Intel Core i7 processors
 and gigabit ethernet interconnection.
 
 * OS : Debian 7
-* MPI implementation : OpemMPI
+* MPI implementation : OpenMPI
 * Processors
   - Master node
      - Celeron G1610
