@@ -10,7 +10,7 @@ Hybrid MPI / OpenMP parallel implementation of
 Configuration:
 
 * OS : Debian 7
-* Processor : Core i7-3870X
+* Processor : Core i7-3970X
 
 Commands and results:
 > $ g++ -O3 -fopenmp -o smallpt smallpt.cpp  
